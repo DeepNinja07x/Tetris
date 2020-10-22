@@ -3,10 +3,10 @@
 ## Steps:
 -  I would suggest you to create an issue for the development you want to make in the project. Though it isn't mandatory.
   
--  Fork this [repository](https://github.com/DeepNinja07x/Typing-Speed-Test)
+-  Fork this [repository](https://github.com/DeepNinja07x/Tetris)
   
--  Clone the forked https://github.com/<Your_Username>/Typing-Speed-Test
-    > git clone https://github.com/<Your_Username>/Typing-Speed-Test
+-  Clone the forked https://github.com/<Your_Username>/Tetris
+    > git clone https://github.com/<Your_Username>/Tetris.git
 
 -  Create new branch 
     > git checkout -b <Your_Branch_Name>
@@ -33,7 +33,7 @@
 
 - Add the upstream (main project's) repo's URL
 
-    > git remote add upstream https://github.com/DeepNinja07x/Typing-Speed-Test.git
+    > git remote add upstream https://github.com/DeepNinja07x/Tetris.git
 
 - Now fetch all the new commits from upstream to your local repo.
 
